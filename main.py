@@ -1,7 +1,6 @@
 from Bio import SeqIO
 from Bio import Entrez
 from Bio.Blast import NCBIWWW
-import lxml.etree as etree
 from Bio import SearchIO
 
 Entrez.email = "luat.dinh@sjsu.edu"
@@ -32,12 +31,12 @@ def writeBlast(blast_results, filename):
 
 def processXML(filename):
     blastresults = SearchIO.read(filename, 'blast-xml')
-    accessionDict = {}
+    accessionArray = []
     for hit in blastresults:
         accession = getAccession(hit).id
         print(hit.id)
-
-    return accessionDict
+        accessionArray.append(accession)
+    return accessionArray
 
 def getAccession(hit):
     accession = hit.id.split('|')
