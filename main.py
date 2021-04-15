@@ -7,16 +7,6 @@ from Bio.Blast import NCBIXML
 
 Entrez.email = "luat.dinh@sjsu.edu"
 
-def readsequences(accession):
-    try:
-        with Entrez.efetch(db="nucleotide", rettype="gb", retmod="text",
-                           id=accession) as request:
-            for result in SeqIO.parse(request, "gb"):
-                nuc_des = str(result.description)
-                nuc_seq = str(result.seq)
-    except:
-        print("Request failed")
-
 
 def runBlast(GI, hits=50):
     blast_results = NCBIWWW.qblast("blastn", "nt", GI, megablast=True,
@@ -37,7 +27,7 @@ def processXML(blastresults):
     for hit in blastresults:
         accession = getAccession(hit).id
         # print(hit.id)
-        accessionArray[i] = [accession , hit, accession]
+        accessionArray[i] = [accession , hit]
         i = i+1
     return accessionArray
 
@@ -61,7 +51,6 @@ def readXML(filename):
 def createalignmentarray():
     with open('basicblast.xml') as result_handle:
         blast_record = NCBIXML.read(result_handle)
-    E_VALUE_THRESH = 0.04
     alignmentarray = []
     for alignment in blast_record.alignments:
         for hsp in alignment.hsps:
@@ -81,7 +70,7 @@ def addtodict(dictionary, array):
         #print(speciesname)
         value.append(array[i])
         #value.append(speciesname)
-        print(value)
+        #print(value)
         i = i+1
 
 def readspecies(filename):
@@ -101,12 +90,42 @@ def finddiffspecies(filename):
     with open(filename,"r") as f:
         for line in f:
             sp.append(line.strip().split(","))
-    for species in sp:
-        print(species[0])
-        if (species[0] not in diffsp):
+    for species in sp[2:]:
+        #print(species[0])
+        if (species[0] not in diffsp) and (species[0] != "synthetic construct"):
             diffsp.append(species[0])
             results.append(species)
     return results
+
+def get25species(speciesarray):
+    array25 = []
+    for x in speciesarray[0:25]:
+        array25.append(x)
+    return array25
+
+def get25accessionfromdict(speciesset, speciesdict):
+    sparr = []
+    for sp in speciesset:
+        res = speciesdict[int(sp[1])]
+        res.insert(0,sp[0])
+        sparr.append(res)
+    return sparr
+
+def converttofasta(dataset):
+    output= open("fasta.fna", "w")
+    i = 0
+    for accession in dataset:
+        with Entrez.efetch(
+                db="nucleotide", rettype="fasta", retmode="text", \
+                id=accession[1]) as handle:
+            seq_record = SeqIO.read(handle, "fasta")
+        output.write((">%s | %s\n%s\n\n" % (
+           seq_record.description,
+           dataset[i][0],
+           seq_record.seq)))
+        i = i+1
+    output.close()
+
 
 """
 An HSP has a query sequence (qseq), hit sequence (hseq) and midline--- '|' 
@@ -125,12 +144,12 @@ if __name__ == "__main__":
     arr = processXML(blastresults)
     agn = createalignmentarray()
     addtodict(arr, agn)
-    print(arr)
-    for key, val in arr.items():
-        print(val[1])
     #savespecies(arr)
     readspecies("speciesarray.txt")
     uniquespecies = finddiffspecies("sparray.txt")
-    for x in uniquespecies:
-        print(x)
 
+    basicset = get25species(uniquespecies)
+    sparr = get25accessionfromdict(basicset, arr)
+    converttofasta(sparr)
+    for x in sparr:
+        print(x)
