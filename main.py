@@ -122,10 +122,18 @@ def converttofasta(dataset):
         output.write((">%s | %s\n%s\n\n" % (
            seq_record.description,
            dataset[i][0],
-           seq_record.seq)))
+           formatseq(seq_record.seq))))
         i = i+1
     output.close()
 
+def formatseq(seq):
+    n = 70
+    chunk = [seq[i:i + n] for i in range(0, len(seq), n)]
+    seq = ''
+    for line in chunk:
+        seq += line +"\n"
+    print(seq)
+    return(seq)
 
 """
 An HSP has a query sequence (qseq), hit sequence (hseq) and midline--- '|' 
