@@ -8,6 +8,7 @@ from Bio import Phylo
 from Bio.Phylo.TreeConstruction import DistanceCalculator, DistanceTreeConstructor
 import matplotlib
 import matplotlib.pyplot as plot
+from readBasicFasta import hitinfo
 
 basic_set = "basicset.fasta"
 related_set = "OPN1LW_refseq_transcript.fasta"
@@ -18,9 +19,6 @@ def read_fastafile(fastafile):
     return list(SeqIO.parse(fastafile, "fasta"))
 
 def clustalW_alignment(fastafile, alignment_output):
-    basic_data_set = read_fastafile(fastafile)
-    related_data_set = read_fastafile("OPN1LW_refseq_transcript.fasta")
-
     cline = ClustalwCommandline(r"C:\Program Files (x86)\ClustalW2\clustalw2",
                                 infile=fastafile, outfile=alignment_output)
     cline()
@@ -44,24 +42,43 @@ def makePhyloTree(alignedfile, outfile):
         return phylotree
 
 def displayPhyloTree(phylotree):
-    f = Phylo.draw(phylotree)
+    fig = plot.figure(figsize=(13, 5), dpi=100)  # create figure & set the size
+    matplotlib.rc('font', size=12)  # fontsize of the leaf and node labels
+    matplotlib.rc('xtick', labelsize=10)  # fontsize of the tick labels
+    matplotlib.rc('ytick', labelsize=10)  # fontsize of the tick labels
+    # turtle_tree.ladderize()		   # optional way to reformat your tree
+    axes = fig.add_subplot(1, 1, 1)
+    f = Phylo.draw(phylotree, axes = axes)
+
+def assignname_toalignment(alignments):
+    i = 0
+    for rec in alignments:
+        sciname = hitinfo(rec.id)
+        rec.name = rec.id
+        rec.id = sciname
+        print(rec)
+        i = i + 1
+
+"""Swaps species name with Accession number for better visualization"""
+def write_speciestoalign(alignments, phylotree_filename):
+    with open(alignments, "r") as align:
+        alignment = AlignIO.read(align, "clustal")
+        assignname_toalignment(alignment)
+        count = SeqIO.write(alignment, phylotree_filename, "clustal")
 
 if __name__ == "__main__":
     basicfilename = "convertedbasicalignment.fasta"
     relatedfilename = "convertedrelatedalignment.fasta"
+    phylotree_filename = "basicphylotree.aln"
     #clustalW_alignment(basic_set, basicset_alignment_output)
     #clustalW_alignment(related_set, relatedset_alignment_output)
-    with open(basicset_alignment_output, "r") as align:
-        alignment = AlignIO.read(align, "clustal")
-    i = 0
-    for rec in alignment:
-        print(rec, i )
-        i = i + 1
 
+    write_speciestoalign(basicset_alignment_output, phylotree_filename)
     convertClustal_toFASTA(basicset_alignment_output, basicfilename)
-    convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
-    basic_phylotree = makePhyloTree(basicset_alignment_output, "basictree.xml")
-    displayPhyloTree(basic_phylotree)
+    #convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
+    basic_phylotree = makePhyloTree(phylotree_filename, "basictree.xml")
+    #displayPhyloTree(basic_phylotree)
 
-    related_phylotree = makePhyloTree(relatedset_alignment_output, "relatedtree.xml")
-    displayPhyloTree(related_phylotree)
+    #related_phylotree = makePhyloTree(relatedset_alignment_output, "relatedtree.xml")
+    #displayPhyloTree(related_phylotree)
+    read_fastafile(relatedfilename)

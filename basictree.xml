@@ -13,18 +13,18 @@
             <name>Inner20</name>
             <branch_length>0.004133656103286358</branch_length>
             <clade>
-              <name>XM_007993132.2</name>
+              <name>Chlorocebus_sabaeus</name>
               <branch_length>0.008141688673708939</branch_length>
             </clade>
             <clade>
               <name>Inner19</name>
               <branch_length>0.0014827244718310286</branch_length>
               <clade>
-                <name>XM_012002287.1</name>
+                <name>Mandrillus_leucophaeus</name>
                 <branch_length>0.004769659624413128</branch_length>
               </clade>
               <clade>
-                <name>XM_023198523.1</name>
+                <name>Piliocolobus_tephrosceles</name>
                 <branch_length>0.0055589788732394035</branch_length>
               </clade>
             </clade>
@@ -39,11 +39,11 @@
                 <name>Inner10</name>
                 <branch_length>0.01067634976525822</branch_length>
                 <clade>
-                  <name>XM_012662045.1</name>
+                  <name>Propithecus_coquereli</name>
                   <branch_length>0.03504359490274981</branch_length>
                 </clade>
                 <clade>
-                  <name>XM_008071543.1</name>
+                  <name>Carlito_syrichta</name>
                   <branch_length>0.03068410462776657</branch_length>
                 </clade>
               </clade>
@@ -54,11 +54,11 @@
                   <name>Inner8</name>
                   <branch_length>0.000936032863849752</branch_length>
                   <clade>
-                    <name>XM_012437920.1</name>
+                    <name>Aotus_nancymaae</name>
                     <branch_length>0.00782717136150235</branch_length>
                   </clade>
                   <clade>
-                    <name>XM_002763410.5</name>
+                    <name>Callithrix_jacchus</name>
                     <branch_length>0.010013204225352124</branch_length>
                   </clade>
                 </clade>
@@ -66,11 +66,11 @@
                   <name>Inner7</name>
                   <branch_length>0.0038761737089201484</branch_length>
                   <clade>
-                    <name>XM_017516718.2</name>
+                    <name>Cebus_imitator</name>
                     <branch_length>0.00952257663628836</branch_length>
                   </clade>
                   <clade>
-                    <name>XM_032265262.1</name>
+                    <name>Sapajus_apella</name>
                     <branch_length>0.005031413974040333</branch_length>
                   </clade>
                 </clade>
@@ -86,18 +86,18 @@
                   <name>Inner2</name>
                   <branch_length>0.012048122065727751</branch_length>
                   <clade>
-                    <name>XM_012088314.1</name>
+                    <name>Cercocebus_atys</name>
                     <branch_length>0.010883482714468623</branch_length>
                   </clade>
                   <clade>
                     <name>Inner1</name>
                     <branch_length>0.00578318395219804</branch_length>
                     <clade>
-                      <name>XM_033178506.1</name>
+                      <name>Trachypithecus_francoisi</name>
                       <branch_length>0.00411308430291904</branch_length>
                     </clade>
                     <clade>
-                      <name>XM_017882326.1</name>
+                      <name>Rhinopithecus_bieti</name>
                       <branch_length>0.0038681363543579816</branch_length>
                     </clade>
                   </clade>
@@ -106,17 +106,17 @@
                   <name>Inner3</name>
                   <branch_length>0.00614436619718306</branch_length>
                   <clade>
-                    <name>XM_002832301.2</name>
+                    <name>Pongo_abelii</name>
                     <branch_length>0.01836016096579479</branch_length>
                   </clade>
                   <clade>
-                    <name>XM_001144896.5</name>
+                    <name>Pan_troglodytes</name>
                     <branch_length>0.06661636485580141</branch_length>
                   </clade>
                 </clade>
               </clade>
               <clade>
-                <name>XM_003943902.2</name>
+                <name>Saimiri_boliviensis_boliviensi</name>
                 <branch_length>0.04508586607363475</branch_length>
               </clade>
             </clade>
@@ -126,14 +126,14 @@
           <name>Inner17</name>
           <branch_length>0.004434419014084522</branch_length>
           <clade>
-            <name>NM_001330067.1</name>
+            <name>Homo_sapiens</name>
             <branch_length>0.01135248993963782</branch_length>
           </clade>
           <clade>
             <name>Inner16</name>
             <branch_length>0.0037590124077800033</branch_length>
             <clade>
-              <name>XM_030807418.1</name>
+              <name>Nomascus_leucogenys</name>
               <branch_length>0.008467209507042259</branch_length>
             </clade>
             <clade>
@@ -143,11 +143,11 @@
                 <name>Inner12</name>
                 <branch_length>0.007423708920187795</branch_length>
                 <clade>
-                  <name>XM_025372856.1</name>
+                  <name>Theropithecus_gelada</name>
                   <branch_length>0.00020295383411580992</branch_length>
                 </clade>
                 <clade>
-                  <name>XM_015128550.2</name>
+                  <name>Macaca_mulatta</name>
                   <branch_length>0.0012054968701095403</branch_length>
                 </clade>
               </clade>
@@ -161,21 +161,21 @@
                     <name>Inner6</name>
                     <branch_length>0.064810175153485</branch_length>
                     <clade>
-                      <name>AF158968.1</name>
+                      <name>Macaca_fascicularis</name>
                       <branch_length>0.002935902451747553</branch_length>
                     </clade>
                     <clade>
-                      <name>NM_001168797.1</name>
+                      <name>Papio_anubis</name>
                       <branch_length>0.0008199660928534178</branch_length>
                     </clade>
                   </clade>
                   <clade>
-                    <name>XM_030933513.1</name>
+                    <name>Rhinopithecus_roxellana</name>
                     <branch_length>0.0051428764897074875</branch_length>
                   </clade>
                 </clade>
                 <clade>
-                  <name>XM_034949900.1</name>
+                  <name>Pan_paniscus</name>
                   <branch_length>0.012487329278702497</branch_length>
                 </clade>
               </clade>
@@ -184,11 +184,11 @@
         </clade>
       </clade>
       <clade>
-        <name>XM_031005901.1</name>
+        <name>Gorilla_gorilla_gorilla</name>
         <branch_length>0.008061913145539895</branch_length>
       </clade>
       <clade>
-        <name>XM_032757874.1</name>
+        <name>Hylobates_moloch</name>
         <branch_length>0.010247946009389658</branch_length>
       </clade>
     </clade>
