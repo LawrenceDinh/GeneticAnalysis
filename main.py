@@ -41,6 +41,8 @@ def hitinfo(hit):
                            retmode="text")
     genbank = SeqIO.read(namesearch, 'genbank')
     scientificname = genbank.annotations['organism']
+    taxonomy = genbank.annotations['taxonomy']
+    #print(taxonomy[:1])
     return scientificname
 
 
@@ -60,16 +62,17 @@ def createalignmentarray():
 def savespecies(resultsdict):
     with open ("speciesarray.txt", "w") as f:
         for key,val in resultsdict.items():
-            f.write(val[4] + "\n")
+            print(val)
+            f.write(val[3] + "\n")
     f.close()
 
 def addtodict(dictionary, array):
     i = 0
     for key, value in arr.items():
-        #speciesname = hitinfo(value[0])
+        speciesname = hitinfo(value[0])
         #print(speciesname)
         value.append(array[i])
-        #value.append(speciesname)
+        value.append(speciesname)
         #print(value)
         i = i+1
 
@@ -132,9 +135,15 @@ def formatseq(seq):
     seq = ''
     for line in chunk:
         seq += line +"\n"
-    print(seq)
     return(seq)
 
+def arraytofasta():
+    readspecies("speciesarray.txt")
+    uniquespecies = finddiffspecies("sparray.txt")
+
+    basicset = get25species(uniquespecies)
+    sparr = get25accessionfromdict(basicset, arr)
+    converttofasta(sparr)
 """
 An HSP has a query sequence (qseq), hit sequence (hseq) and midline--- '|' 
 characters showing matches or a space for no match
@@ -148,16 +157,9 @@ if __name__ == "__main__":
     # writeBlast(runBlast("NM_020061.6", 100), "basicblast.xml")
     xmlFile = "basicblast.xml"
     blastresults = readXML(xmlFile)
-    #getAlignment(blastresults)
     arr = processXML(blastresults)
     agn = createalignmentarray()
     addtodict(arr, agn)
-    #savespecies(arr)
-    readspecies("speciesarray.txt")
-    uniquespecies = finddiffspecies("sparray.txt")
-
-    basicset = get25species(uniquespecies)
-    sparr = get25accessionfromdict(basicset, arr)
-    converttofasta(sparr)
-    for x in sparr:
-        print(x)
+    savespecies(arr)
+    arraytofasta()
+    """ End of module to read in training sets"""
