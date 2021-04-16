@@ -4,6 +4,10 @@ diff = 90 lines """
 from Bio import SeqIO
 from Bio import AlignIO
 from Bio.Align.Applications import ClustalwCommandline
+from Bio import Phylo
+from Bio.Phylo.TreeConstruction import DistanceCalculator, DistanceTreeConstructor
+import matplotlib
+import matplotlib.pyplot as plot
 
 basic_set = "basicset.fasta"
 related_set = "OPN1LW_refseq_transcript.fasta"
@@ -26,8 +30,26 @@ def convertClustal_toFASTA(clustalalignment, fastafilename):
     records = SeqIO.parse(clustalalignment, "clustal")
     count = SeqIO.write(records, fastafilename, "fasta")
 
+def makePhyloTree(alignedfile, outfile):
+    with open(alignedfile,'r') as a:
+        align = AlignIO.read(a,'clustal')
+        print(type(align))
+        calculator = DistanceCalculator('identity')
+        dist_matrix = calculator.get_distance(align)
+        c = DistanceTreeConstructor(calculator)
+        phylotree = c.build_tree(align)
+        phylotree.rooted = True
+        print(phylotree)
+        Phylo.write(phylotree, outfile, "phyloxml")
+        return phylotree
+
+def displayPhyloTree(phylotree):
+    f = Phylo.draw(phylotree)
+
 if __name__ == "__main__":
-    clustalW_alignment(basic_set, basicset_alignment_output)
+    basicfilename = "convertedbasicalignment.fasta"
+    relatedfilename = "convertedrelatedalignment.fasta"
+    #clustalW_alignment(basic_set, basicset_alignment_output)
     #clustalW_alignment(related_set, relatedset_alignment_output)
     with open(basicset_alignment_output, "r") as align:
         alignment = AlignIO.read(align, "clustal")
@@ -35,5 +57,11 @@ if __name__ == "__main__":
     for rec in alignment:
         print(rec, i )
         i = i + 1
-    convertClustal_toFASTA(basicset_alignment_output, "convertedbasicalignment.fasta")
-    convertClustal_toFASTA(relatedset_alignment_output, "convertedrelatedalignment.fasta")
+
+    convertClustal_toFASTA(basicset_alignment_output, basicfilename)
+    convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
+    basic_phylotree = makePhyloTree(basicset_alignment_output, "basictree.xml")
+    displayPhyloTree(basic_phylotree)
+
+    related_phylotree = makePhyloTree(relatedset_alignment_output, "relatedtree.xml")
+    displayPhyloTree(related_phylotree)
