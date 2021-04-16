@@ -8,7 +8,7 @@ from Bio.Align.Applications import ClustalwCommandline
 basic_set = "basicset.fasta"
 related_set = "OPN1LW_refseq_transcript.fasta"
 basicset_alignment_output = "basicaligned.clustal"
-relatedset_alignment_output = "relatedaligned.aln"
+relatedset_alignment_output = "relatedaligned.clustal"
 
 def read_fastafile(fastafile):
     return list(SeqIO.parse(fastafile, "fasta"))
@@ -22,9 +22,9 @@ def clustalW_alignment(fastafile, alignment_output):
     cline()
     print(cline)
 
-def convertClustal_toFASTA(clustalalignment):
+def convertClustal_toFASTA(clustalalignment, fastafilename):
     records = SeqIO.parse(clustalalignment, "clustal")
-    count = SeqIO.write(records, "convertedbasicalignment.fasta", "fasta")
+    count = SeqIO.write(records, fastafilename, "fasta")
 
 if __name__ == "__main__":
     clustalW_alignment(basic_set, basicset_alignment_output)
@@ -35,4 +35,5 @@ if __name__ == "__main__":
     for rec in alignment:
         print(rec, i )
         i = i + 1
-    convertClustal_toFASTA("basicaligned.aln")
+    convertClustal_toFASTA(basicset_alignment_output, "convertedbasicalignment.fasta")
+    convertClustal_toFASTA(relatedset_alignment_output, "convertedrelatedalignment.fasta")
