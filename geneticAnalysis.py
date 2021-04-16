@@ -69,14 +69,17 @@ def write_speciestoalign(alignments, phylotree_filename):
 if __name__ == "__main__":
     basicfilename = "convertedbasicalignment.fasta"
     relatedfilename = "convertedrelatedalignment.fasta"
-    phylotree_filename = "basicphylotree.aln"
+    basic_species_alignedfile = "basicspeciesaligned.aln"
+    related_related_alignedfile = "relatedspecies.aln"
+    basicphylout = "basictree.xml"
+    relatedphylout = "relatedtree.xml"
     #clustalW_alignment(basic_set, basicset_alignment_output)
     #clustalW_alignment(related_set, relatedset_alignment_output)
 
-    write_speciestoalign(basicset_alignment_output, phylotree_filename)
+    write_speciestoalign(basicset_alignment_output, basic_species_alignedfile)
     convertClustal_toFASTA(basicset_alignment_output, basicfilename)
     #convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
-    basic_phylotree = makePhyloTree(phylotree_filename, "basictree.xml")
+    basic_phylotree = makePhyloTree(basic_species_alignedfile, basicphylout)
     #displayPhyloTree(basic_phylotree)
 
     #related_phylotree = makePhyloTree(relatedset_alignment_output, "relatedtree.xml")
