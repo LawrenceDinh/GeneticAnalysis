@@ -18,7 +18,6 @@ def clustalW_alignment(fastafile, alignment_output):
     cline = ClustalwCommandline(r"C:\Program Files (x86)\ClustalW2\clustalw2",
                                 infile=fastafile, outfile=alignment_output)
     cline()
-    print(cline)
 
 def convertClustal_toFASTA(clustalalignment, fastafilename):
     records = SeqIO.parse(clustalalignment, "clustal")
@@ -33,18 +32,20 @@ def makePhyloTree(alignedfile, outfile):
         c = DistanceTreeConstructor(calculator)
         phylotree = c.build_tree(align)
         phylotree.rooted = True
-        print(phylotree)
+        #print(phylotree)
         Phylo.write(phylotree, outfile, "phyloxml")
+        a.close()
         return phylotree
 
+
 def displayPhyloTree(phylotree):
-    fig = plot.figure(figsize=(13, 5), dpi=100)  # create figure & set the size
+    fig = plot.figure(figsize=(13, 7), dpi=100)  # create figure & set the size
     matplotlib.rc('font', size=12)  # fontsize of the leaf and node labels
     matplotlib.rc('xtick', labelsize=10)  # fontsize of the tick labels
     matplotlib.rc('ytick', labelsize=10)  # fontsize of the tick labels
     # turtle_tree.ladderize()		   # optional way to reformat your tree
     axes = fig.add_subplot(1, 1, 1)
-    f = Phylo.draw(phylotree, axes = axes)
+    Phylo.draw(phylotree, axes = axes)
 
 def assignname_toalignment(alignments):
     i = 0
@@ -52,7 +53,7 @@ def assignname_toalignment(alignments):
         sciname = hitinfo(rec.id)
         rec.name = rec.id
         rec.id = sciname
-        print(rec)
+        #print(rec)
         i = i + 1
 
 """Swaps species name with Accession number for better visualization"""
@@ -61,15 +62,19 @@ def write_speciestoalign(alignments, phylotree_filename):
         alignment = AlignIO.read(align, "clustal")
         assignname_toalignment(alignment)
         count = SeqIO.write(alignment, phylotree_filename, "clustal")
+    align.close()
 
-def choose25aligned(rawalignment):
+"""Retrieve last 25 sequences from Ortholog file"""
+def choose25aligned(rawalignment, newalignment):
     seq = read_fastafile(rawalignment)
-    i = 0
-    print(seq[:10])
-    for hit in seq:
-        #print(hit, i)
-        i = i+1
+    newseq = seq[-25:]
+    newseq.append(seq[0])
 
+    count = SeqIO.write(newseq, newalignment, "fasta")
+
+def readphylofromfile(phylofile):
+    tree = Phylo.read(phylofile, 'phyloxml')
+    return tree
 
 if __name__ == "__main__":
     basicfilename = "convertedbasicalignment.fasta"
@@ -80,18 +85,29 @@ if __name__ == "__main__":
     relatedset_alignment_output = "relatedaligned.clustal"
     basic_set = "basicset.fasta"
     related_set = "OPN1LW_refseq_transcript.fasta"
+    related_set_25 = "relatedset25.fasta"
     basicphylout = "basictree.xml"
     relatedphylout = "relatedtree.xml"
-    #clustalW_alignment(basic_set, basicset_alignment_output)
-    #clustalW_alignment(related_set, relatedset_alignment_output)
-    choose25aligned(related_set)
-    #write_speciestoalign(basicset_alignment_output, basic_species_alignedfile)
-    convertClustal_toFASTA(basicset_alignment_output, basicfilename)
-    #convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
-    basic_phylotree = makePhyloTree(basic_species_alignedfile, basicphylout)
-    #displayPhyloTree(basic_phylotree)
+    """Used to choose 25 sequences from 44 orthologs"""
+    #choose25aligned(related_set, related_set_25)
 
+    """Perform ClustalW2"""
+    #clustalW_alignment(basic_set, basicset_alignment_output)
+    #clustalW_alignment(related_set_25, relatedset_alignment_output)
+
+    """Swap accession number and species name for readability"""
+    #write_speciestoalign(basicset_alignment_output, basic_species_alignedfile)
+    #write_speciestoalign(relatedset_alignment_output, related_species_alignedfile)
+
+    """Convert clustal to fasta format """
+    #convertClustal_toFASTA(basicset_alignment_output, basicfilename)
+    #convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
+
+    """Create phylogenetic tree from .aln file"""
+    #basic_phylotree = makePhyloTree(basic_species_alignedfile, basicphylout)
+    basic_phylotree = readphylofromfile(basicphylout)
+    displayPhyloTree(basic_phylotree)
 
     #related_phylotree = makePhyloTree(related_species_alignedfile, relatedphylout)
-    #displayPhyloTree(related_phylotree)
-    read_fastafile(relatedfilename)
+    related_phylotree = readphylofromfile(relatedphylout)
+    displayPhyloTree(related_phylotree)
