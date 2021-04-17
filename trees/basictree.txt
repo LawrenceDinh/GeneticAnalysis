@@ -1,0 +1,49 @@
+ , Gorilla_gorilla_gorilla
+ |
+ | Hylobates_moloch
+ |
+ , Homo_sapiens
+ |
+ , Nomascus_leucogenys
+ |
+_|, Theropithecus_gelada
+ ||
+ || Macaca_mulatta
+ ||
+ ||_ Pan_paniscus
+ ||
+ ||, Rhinopithecus_roxellana
+ |||
+ | |      , Macaca_fascicularis
+ | |______|
+ |        | Papio_anubis
+ |
+ , Chlorocebus_sabaeus
+ |
+ , Mandrillus_leucophaeus
+ |
+ | Piliocolobus_tephrosceles
+ |
+ |  ___ Propithecus_coquereli
+ |,|
+ |||__ Carlito_syrichta
+ ||
+ ,|, Aotus_nancymaae
+ |||
+ ||| Callithrix_jacchus
+ |||
+ | , Cebus_imitator
+ | |
+ | | Sapajus_apella
+ |
+ |                                  ____ Saimiri_boliviensis_boliviensi
+ |                                 |
+ |_________________________________|  _ Pongo_abelii
+                                   | |
+                                   | |_______ Pan_troglodytes
+                                   |_|
+                                     |, Cercocebus_atys
+                                     ||
+                                      |, Trachypithecus_francoisi
+                                      ||
+                                       | Rhinopithecus_bieti

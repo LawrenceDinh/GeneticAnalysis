@@ -1,0 +1,51 @@
+   , Arvicanthis_niloticus
+  _|
+ | | Mus_pahari
+ |
+ |, Piliocolobus_tephrosceles
+ ||
+ ||, Homo_sapiens
+ |||
+ | | Nomascus_leucogenys
+ |
+ |_ Panthera_pardus
+ |
+ | , Bos_indicus
+ |_|
+ | | Bos_indicus_x_Bos_taurus
+ |
+ |  _ Globicephala_melas
+_|,|
+ ||| Neophocaena_asiaeorientalis_as
+ ||
+ || __ Lagenorhynchus_obliquidens
+ |||
+ | , Monodon_monoceros
+ | |
+ | | Phocoena_sinus
+ |
+ |    ________ Pseudonaja_textilis
+ |___|
+ |   | _____ Hipposideros_armiger
+ |   ||
+ |    |    __________________________________ Geotrypetes_seraphini
+ |    |___|
+ |        |_________ Trachypithecus_francoisi
+ |
+ |__ Phoca_vitulina
+ |
+ | __ Talpa_occidentalis
+ ||
+ ||  __ Melopsittacus_undulatus
+  | |
+  |_| ___________ Rhinatrema_bivittatum
+    ,|
+    ||__ Microcaecilia_unicolor
+    |
+    | ___ Nanorana_parkeri
+    ||
+     |__ Gekko_japonicus
+     |
+     |, Zootoca_vivipara
+     ||
+      |_ Thamnophis_elegans

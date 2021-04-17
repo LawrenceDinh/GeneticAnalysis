@@ -1,5 +1,5 @@
 """ +165 lines from collecting basic_data_set
-270 lines without comments 
+270 lines without comments
 """
 
 
@@ -43,9 +43,6 @@ def makePhyloTree(alignedfile, outfile):
 def displayPhyloTree(phylotree):
     fig = plot.figure(figsize=(13, 7), dpi=100)  # create figure & set the size
     matplotlib.rc('font', size=12)  # fontsize of the leaf and node labels
-    matplotlib.rc('xtick', labelsize=10)  # fontsize of the tick labels
-    matplotlib.rc('ytick', labelsize=10)  # fontsize of the tick labels
-    # turtle_tree.ladderize()		   # optional way to reformat your tree
     axes = fig.add_subplot(1, 1, 1)
     Phylo.draw(phylotree, axes = axes)
 
@@ -76,6 +73,7 @@ def choose25aligned(rawalignment, newalignment):
 
 def readphylofromfile(phylofile):
     tree = Phylo.read(phylofile, 'phyloxml')
+    tree.ladderize() # Deeper clades are displayed at top
     return tree
 
 if __name__ == "__main__":
@@ -108,8 +106,10 @@ if __name__ == "__main__":
     """Create phylogenetic tree from .aln file"""
     #basic_phylotree = makePhyloTree(basic_species_alignedfile, basicphylout)
     basic_phylotree = readphylofromfile(basicphylout)
+    Phylo.draw_ascii(basic_phylotree)
     displayPhyloTree(basic_phylotree)
 
     #related_phylotree = makePhyloTree(related_species_alignedfile, relatedphylout)
     related_phylotree = readphylofromfile(relatedphylout)
     displayPhyloTree(related_phylotree)
+    Phylo.draw_ascii(related_phylotree)
