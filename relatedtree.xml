@@ -1,16 +1,16 @@
 <phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
   <phylogeny rooted="true">
     <clade>
-      <name>Inner24</name>
+      <name>24</name>
       <branch_length>0</branch_length>
       <clade>
-        <name>Inner22</name>
+        <name>22</name>
         <branch_length>0.004167161546311936</branch_length>
         <clade>
-          <name>Inner20</name>
+          <name>20</name>
           <branch_length>0.003972796038225722</branch_length>
           <clade>
-            <name>Inner11</name>
+            <name>11</name>
             <branch_length>0.021102577186561576</branch_length>
             <clade>
               <name>Bos_indicus</name>
@@ -22,17 +22,17 @@
             </clade>
           </clade>
           <clade>
-            <name>Inner18</name>
+            <name>18</name>
             <branch_length>0.015008533924549546</branch_length>
             <clade>
-              <name>Inner16</name>
+              <name>16</name>
               <branch_length>0.011202189913127422</branch_length>
               <clade>
                 <name>Lagenorhynchus_obliquidens</name>
                 <branch_length>0.03939447259759758</branch_length>
               </clade>
               <clade>
-                <name>Inner15</name>
+                <name>15</name>
                 <branch_length>0.0014463682432432484</branch_length>
                 <clade>
                   <name>Monodon_monoceros</name>
@@ -45,7 +45,7 @@
               </clade>
             </clade>
             <clade>
-              <name>Inner17</name>
+              <name>17</name>
               <branch_length>0.003962975252037745</branch_length>
               <clade>
                 <name>Globicephala_melas</name>
@@ -64,20 +64,20 @@
         </clade>
       </clade>
       <clade>
-        <name>Inner23</name>
+        <name>23</name>
         <branch_length>0.0012584422801708017</branch_length>
         <clade>
-          <name>Inner3</name>
+          <name>3</name>
           <branch_length>0.05596577412373308</branch_length>
           <clade>
             <name>Pseudonaja_textilis</name>
             <branch_length>0.12683763308763307</branch_length>
           </clade>
           <clade>
-            <name>Inner2</name>
+            <name>2</name>
             <branch_length>0.011750955500955562</branch_length>
             <clade>
-              <name>Inner1</name>
+              <name>1</name>
               <branch_length>0.056851416634025306</branch_length>
               <clade>
                 <name>Geotrypetes_seraphini</name>
@@ -95,19 +95,19 @@
           </clade>
         </clade>
         <clade>
-          <name>Inner19</name>
+          <name>19</name>
           <branch_length>0.007383219401041662</branch_length>
           <clade>
-            <name>Inner12</name>
+            <name>12</name>
             <branch_length>0.013123963807557565</branch_length>
             <clade>
-              <name>Inner9</name>
+              <name>9</name>
               <branch_length>0.022767373743936233</branch_length>
               <clade>
-                <name>Inner8</name>
+                <name>8</name>
                 <branch_length>0.004156622442755262</branch_length>
                 <clade>
-                  <name>Inner5</name>
+                  <name>5</name>
                   <branch_length>0.013170845477830775</branch_length>
                   <clade>
                     <name>Rhinatrema_bivittatum</name>
@@ -119,21 +119,21 @@
                   </clade>
                 </clade>
                 <clade>
-                  <name>Inner7</name>
+                  <name>7</name>
                   <branch_length>0.006104680047694752</branch_length>
                   <clade>
                     <name>Nanorana_parkeri</name>
                     <branch_length>0.05201686061061059</branch_length>
                   </clade>
                   <clade>
-                    <name>Inner6</name>
+                    <name>6</name>
                     <branch_length>0.007742899149149163</branch_length>
                     <clade>
                       <name>Gekko_japonicus</name>
                       <branch_length>0.036455369843527714</branch_length>
                     </clade>
                     <clade>
-                      <name>Inner4</name>
+                      <name>4</name>
                       <branch_length>0.00603712264896477</branch_length>
                       <clade>
                         <name>Zootoca_vivipara</name>
@@ -164,10 +164,10 @@
         </clade>
       </clade>
       <clade>
-        <name>Inner21</name>
+        <name>21</name>
         <branch_length>0.005015458573808175</branch_length>
         <clade>
-          <name>Inner10</name>
+          <name>10</name>
           <branch_length>0.03379976656343844</branch_length>
           <clade>
             <name>Arvicanthis_niloticus</name>
@@ -179,10 +179,10 @@
           </clade>
         </clade>
         <clade>
-          <name>Inner14</name>
+          <name>14</name>
           <branch_length>0.019878912115240226</branch_length>
           <clade>
-            <name>Inner13</name>
+            <name>13</name>
             <branch_length>0.0019370222495223022</branch_length>
             <clade>
               <name>Homo_sapiens</name>

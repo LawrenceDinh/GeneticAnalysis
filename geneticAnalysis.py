@@ -1,5 +1,7 @@
 """ +165 lines from collecting basic_data_set
-diff = 90 lines """
+270 lines without comments 
+"""
+
 
 from Bio import SeqIO
 from Bio import AlignIO
