@@ -10,10 +10,6 @@ import matplotlib
 import matplotlib.pyplot as plot
 from readBasicFasta import hitinfo
 
-basic_set = "basicset.fasta"
-related_set = "OPN1LW_refseq_transcript.fasta"
-basicset_alignment_output = "basicaligned.clustal"
-relatedset_alignment_output = "relatedaligned.clustal"
 
 def read_fastafile(fastafile):
     return list(SeqIO.parse(fastafile, "fasta"))
@@ -66,22 +62,36 @@ def write_speciestoalign(alignments, phylotree_filename):
         assignname_toalignment(alignment)
         count = SeqIO.write(alignment, phylotree_filename, "clustal")
 
+def choose25aligned(rawalignment):
+    seq = read_fastafile(rawalignment)
+    i = 0
+    print(seq[:10])
+    for hit in seq:
+        #print(hit, i)
+        i = i+1
+
+
 if __name__ == "__main__":
     basicfilename = "convertedbasicalignment.fasta"
     relatedfilename = "convertedrelatedalignment.fasta"
     basic_species_alignedfile = "basicspeciesaligned.aln"
-    related_related_alignedfile = "relatedspecies.aln"
+    related_species_alignedfile = "relatedspecies.aln"
+    basicset_alignment_output = "basicaligned.clustal"
+    relatedset_alignment_output = "relatedaligned.clustal"
+    basic_set = "basicset.fasta"
+    related_set = "OPN1LW_refseq_transcript.fasta"
     basicphylout = "basictree.xml"
     relatedphylout = "relatedtree.xml"
     #clustalW_alignment(basic_set, basicset_alignment_output)
     #clustalW_alignment(related_set, relatedset_alignment_output)
-
-    write_speciestoalign(basicset_alignment_output, basic_species_alignedfile)
+    choose25aligned(related_set)
+    #write_speciestoalign(basicset_alignment_output, basic_species_alignedfile)
     convertClustal_toFASTA(basicset_alignment_output, basicfilename)
     #convertClustal_toFASTA(relatedset_alignment_output, relatedfilename)
     basic_phylotree = makePhyloTree(basic_species_alignedfile, basicphylout)
     #displayPhyloTree(basic_phylotree)
 
-    #related_phylotree = makePhyloTree(relatedset_alignment_output, "relatedtree.xml")
+
+    #related_phylotree = makePhyloTree(related_species_alignedfile, relatedphylout)
     #displayPhyloTree(related_phylotree)
     read_fastafile(relatedfilename)
