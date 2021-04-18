@@ -38,7 +38,7 @@ def getAccession(hit):
 
 def hitinfo(hit):
     namesearch = Entrez.efetch(db="nucleotide", id=hit, rettype="gb",
-                           retmode="text")
+                               retmode="text")
     genbank = SeqIO.read(namesearch, 'genbank')
     scientificname = genbank.annotations['organism']
     taxonomy = genbank.annotations['taxonomy']
@@ -56,7 +56,7 @@ def createalignmentarray():
     alignmentarray = []
     for alignment in blast_record.alignments:
         for hsp in alignment.hsps:
-                alignmentarray.append(hsp.sbjct)
+            alignmentarray.append(hsp.sbjct)
     return alignmentarray
 
 def savespecies(resultsdict):
@@ -123,8 +123,8 @@ def converttofasta(dataset):
                 id=accession[1]) as handle:
             seq_record = SeqIO.read(handle, "fasta")
         output.write((">%s \n%s\n" % (
-           seq_record.description,
-           formatseq(seq_record.seq))))
+            seq_record.description,
+            formatseq(seq_record.seq))))
         i = i+1
     output.close()
 

@@ -15,6 +15,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -41,6 +42,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -67,6 +69,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -93,6 +96,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -119,6 +123,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -145,6 +150,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -171,6 +177,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -197,6 +204,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           ----------GGCCAGTATAAAGCGCCGTGACCCTCAGGTGATGCGCCAG
 Trachypithecus_francoisi            ---------AGGCCAGTATAAAGCGCCGTGACCCTCAGGTGATGCGCCAG
 Nomascus_leucogenys                 --------------------------------CCTCAGGTGATGCGCCAG
+Homo_sapiens                        ---------------------------------------------GCCAG
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -223,6 +231,7 @@ Talpa_occidentalis                  GGCTGGCGGCCATCCAGGACAGGGCTTTTCAGAGCCATGGCCCA
 Piliocolobus_tephrosceles           GGCTGGCTGCCGTCGGGGACAGGGCTTTCCATAGCCATGGCCCAGCA---
 Trachypithecus_francoisi            GGCTGGCTGCCGTCAGGGACAGGGCTCTCCATAGCCATGGCCCAGCA---
 Nomascus_leucogenys                 GGCTGGCTGCCGTCGGGGACAGGGCTTTCCATAGCCATGGCCCAGCA---
+Homo_sapiens                        GGCCGGCTGCCGTCGGGGACAGGGCTTTCCATAGCCATGGCCCAGCA---
 Mus_pahari                          -------CAAGTCT---GACAGGTTCCAGAGACA--GTTTTCTACAA---
 Arvicanthis_niloticus               -------GGAATCTATGGTCAGGTTCCAGAGACACTGTTTTCCACAG---
 Melopsittacus_undulatus             ------------------------------------ATGG--CGGCC---
@@ -249,6 +258,7 @@ Talpa_occidentalis                  GTGGGTTCCCCAAAGGCTCACGGGCGGACAGCCACACGCCGGCC
 Piliocolobus_tephrosceles           GTGGAGCCTCCAAAGGCTCGCAGGCCGCCATCCGCAGGACAGCTATGAGG
 Trachypithecus_francoisi            GTGGAGCCTCCAAAGGCTCGCAGGCCGCCATCCGCAGGACAGCTATGAGG
 Nomascus_leucogenys                 GTGGAGCCTCCAAAGGCTCGCAGGCCGCCATCCGCAGGACAGCTATGAGG
+Homo_sapiens                        GTGGAGCCTCCAAAGGCTCGCAGGCCGCCATCCGCAGGACAGCTATGAGG
 Mus_pahari                          CCATGGCC--CAAAGGCTTACAGGTGAACAGATACTGGACCACTATGAGG
 Arvicanthis_niloticus               CCATGGCC--CAAAGGCTTACAGGTGAACAGGCATCGGACCACTATGAGG
 Melopsittacus_undulatus             GCGTGGCC----GGCGGTGATGGCAGCGCGACGGCGGCATGAGGATGAGG
@@ -275,6 +285,7 @@ Talpa_occidentalis                  ACAGCACCCTGGGGAG-CATCTTTACCTACACCAACAGCAATGC
 Piliocolobus_tephrosceles           ACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCAACTCCACCAG
 Trachypithecus_francoisi            ACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCAACTCCACCAG
 Nomascus_leucogenys                 ACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCAACTCCACCAG
+Homo_sapiens                        ACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCAACTCCACCAG
 Mus_pahari                          ATAGCACCCATGCAAG-CATCTTCACCTATACCAACAGCAACAGCACCAG
 Arvicanthis_niloticus               ACAGCACCCATTCAAG-CATCTTCACCTATTCCAACAGCAACAGCACCAG
 Melopsittacus_undulatus             AGACCACGCGGGACAG-TGTCTTCACCTACACCAACAGCAACAACACCCG
@@ -301,6 +312,7 @@ Talpa_occidentalis                  AG---GCCCCTTTGAAGGCCCCAATTACCACATCGCTCCCAGGT
 Piliocolobus_tephrosceles           AG---GACCCTTTGAAGGCCCCAACTACCACATCGCTCCCAGATGGGTGT
 Trachypithecus_francoisi            AG---GCCCCTTTGAAGGCCCCAACTACCACATCGCTCCCAGATGGGTGT
 Nomascus_leucogenys                 AG---GCCCCTTCGAAGGCCCGAATTACCACATCGCTCCCAGATGGGTGT
+Homo_sapiens                        AG---GCCCCTTCGAAGGCCCGAATTACCACATCGCTCCCAGATGGGTGT
 Mus_pahari                          AG---GTCCCTTTGAAGGCCCCAATTATCATATTGCTCCCAGGTGGGTGT
 Arvicanthis_niloticus               AG---GTCCCTTTGAAGGTCCCAATTATCACATTGCTCCCAGGTGGGTGT
 Melopsittacus_undulatus             CG---GCCCCTTCGACGGCCCCAACTACCACATAGCCCCTCGCTGGGTGT
@@ -327,6 +339,7 @@ Talpa_occidentalis                  ACCACCTCACCAGCGCCTGGATGGTGTTCGTGGTCATCTCCTCG
 Piliocolobus_tephrosceles           ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTTC
 Trachypithecus_francoisi            ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTTC
 Nomascus_leucogenys                 ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTTC
+Homo_sapiens                        ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACTGCATCCGTCTTC
 Mus_pahari                          ACCACCTCACCAGCACCTGGATGATTCTTGTGGTCATTGCATCTGTCTTC
 Arvicanthis_niloticus               ACCACCTCGCCACCGCCTGGATGATTCTTGTTGTCGTTGCATCTGTCTTC
 Melopsittacus_undulatus             ACAACCTGACCTCCCTCTGGATGATCTTCGTGGTGGCGGCTTCAGTGTTC
@@ -353,6 +366,7 @@ Talpa_occidentalis                  ACCAATGGGCTGGTGCTGGCAGCCACTGTGAGGTTCAGGAGGCT
 Piliocolobus_tephrosceles           ACAAATGGGCTTGTGCTGGCTGCCACCATGAAGTTCAAGAAGTTGCGCCA
 Trachypithecus_francoisi            ACAAATGGGCTTGTGCTGGCTGCCACCATGAAGTTCAAGAAGTTGCGCCA
 Nomascus_leucogenys                 ACAAATGGGCTTGTGCTGGCGGCCACCATGAAGTTCAAGAAGCTGCGCCA
+Homo_sapiens                        ACAAATGGGCTTGTGCTGGCGGCCACCATGAAGTTCAAGAAGCTGCGCCA
 Mus_pahari                          ACTAATGGACTTGTGCTGGCAGCCACCATGAGATTCAAGAAGCTGCGCCA
 Arvicanthis_niloticus               ACTAATGGACTTGTGCTGGCAGCCACCATGAGATTTAAGAAGCTTCGCCA
 Melopsittacus_undulatus             ACCAATGGGCTGGTGCTCGCGGCCACCTGGCGCTTCAAGAAGCTTCGGCA
@@ -379,6 +393,7 @@ Talpa_occidentalis                  TCCTCTGAACTGGATCCTGGTGAACTTGGCGGTCGCCGACCTGG
 Piliocolobus_tephrosceles           CCCGCTGAACTGGATCCTGGTGAACCTGGCGGTTGCTGACCTAGCAGAGA
 Trachypithecus_francoisi            CCCGCTGAACTGGATCCTGGTGAACCTGGCGGTTGCTGACCTAGCAGAGA
 Nomascus_leucogenys                 CCCGCTGAACTGGATCCTGGTGAACCTGGCGGTCGCTGACCTAGCAGAGA
+Homo_sapiens                        CCCGCTGAACTGGATCCTGGTGAACCTGGCGGTCGCTGACCTAGCAGAGA
 Mus_pahari                          TCCTCTGAACTGGATTCTGGTGAACTTGGCAGTTGCTGACCTAGCAGAGA
 Arvicanthis_niloticus               TCCTCTGAACTGGATTCTGGTGAACTTGGCAGTTGCTGACCTAGCAGAGA
 Melopsittacus_undulatus             TCCGCTCAACTGGATCCTGGTGAACCTGGCGCTGGCTGACCTGGGGGAGA
@@ -405,6 +420,7 @@ Talpa_occidentalis                  CCATCGTCGCCAGCACCATCAGCGTGGTGAACCAGATCTGTGGC
 Piliocolobus_tephrosceles           CCGTCATCGCCAGCACTATCAGTGTTGTGAACCAGGTCTCTGGCTACTTC
 Trachypithecus_francoisi            CCGTCATCGCCAGCACTATCAGTGTTGTGAACCAGGTCTCTGGCTACTTC
 Nomascus_leucogenys                 CCGTCATCGCCAGCACTATTAGCGTTGTCAACCAGGTCTCTGGCTACTTC
+Homo_sapiens                        CCGTCATCGCCAGCACTATCAGCATTGTGAACCAGGTCTCTGGCTACTTC
 Mus_pahari                          CCATTATTGCCAGCACTATCAGTGTTGTGAACCAAATCTATGGCTACTTC
 Arvicanthis_niloticus               CTATTATTGCCAGCACTATCAGTGTTGTGAACCAAATCTATGGCTACTTC
 Melopsittacus_undulatus             CCCTGATCGCCAGCACCATCAGTGTCGTCAACCAGATCTTCGGCTACTTC
@@ -431,6 +447,7 @@ Talpa_occidentalis                  GTGCTGGGCCACCCTCTGTGCGTGCTGGAGGGCTACACAGTCTC
 Piliocolobus_tephrosceles           GTGCTGGGCCATCCTATGTGTGTCCTGGAAGGCTTCACCGTCTCCCTGTG
 Trachypithecus_francoisi            GTGCTGGGCCATCCTATGTGTGTCCTGGAAGGCTTCACCGTCTCCCTGTG
 Nomascus_leucogenys                 GTGCTGGGCCACCCTATGTGTGTCCTGGAGGGCTACACCGTCTCCCTGTG
+Homo_sapiens                        GTGCTGGGCCACCCTATGTGTGTCCTGGAGGGCTACACCGTCTCCCTGTG
 Mus_pahari                          GTTCTGGGACACCCTCTGTGTGTCATAGAAGGTTACATTGTCTCATTGTG
 Arvicanthis_niloticus               GTGCTGGGCCACCCTCTGTGTGTCATAGAAGGCTACATTGTCTCATTGTG
 Melopsittacus_undulatus             GTGCTGGGGCATCCGCTCTGTGTCATTGAGGGATACACTGTCAGCGCCTG
@@ -457,6 +474,7 @@ Talpa_occidentalis                  TGGGGTCACAGGCCTCTGGTCCCTTGCCATCATCTCCTGGGAGA
 Piliocolobus_tephrosceles           TGGGATCACAGGTCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGGTGGC
 Trachypithecus_francoisi            TGGAATCACAGGTCTCTGGTCCCTGGCCATCATCTCCTGGGAGAGGTGGC
 Nomascus_leucogenys                 TGGGATCACAGGTCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGGTGGC
+Homo_sapiens                        TGGGATCACAGGTCTCTGGTCTCTGGCCATCATTTCCTGGGAGAGATGGA
 Mus_pahari                          TGGAATCACAGGCCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGATGGC
 Arvicanthis_niloticus               TGGGATCACAGGCCTCTGGTCCCTGGCCATAATTTCCTGGGAGAGATGGC
 Melopsittacus_undulatus             CGGCATCACCGCGCTCTGGTCCTTGGCCATCATCTCCTGGGAACGTTGGT
@@ -483,6 +501,7 @@ Talpa_occidentalis                  TGGTGGTATGCAAGCCCTTTGGCAACGCGAGGTGTGACGCCAAG
 Piliocolobus_tephrosceles           TGGTGGTCTGCAAGCCCTTTGGCAACGTGAGATTTGATGCCAAGCTCGCC
 Trachypithecus_francoisi            TGGTGGTCTGCAAGCCCTTTGGCAACGTGAGATTTGACGCCAAGCTCGCC
 Nomascus_leucogenys                 TGGTGGTCTGCAAGCCCTTTGGCAACGTGAGATTTGATGCCAAGCTGGCC
+Homo_sapiens                        TGGTGGTCTGCAAGCCCTTTGGCAATGTGAGATTTGATGCCAAGCTGGCC
 Mus_pahari                          TGGTGGTCTGCAAGCCCTTTGGTAATGTGAGATTTGATGCTAAACTGGCC
 Arvicanthis_niloticus               TGGTGGTCTGCAAGCCCTTTGGCAATGTGAGATTTGATGCTAAGCTGGCC
 Melopsittacus_undulatus             TCGTGGTCTGCAAACCCTTCGGGAACATCAAGTTCGATGGGAAATTGGCA
@@ -509,6 +528,7 @@ Talpa_occidentalis                  ACAGCGGGCATCGCCTTCTCCTGGGTCTGGTCTGCTGTGTGGAC
 Piliocolobus_tephrosceles           ATCGTGGGCATTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCC
 Trachypithecus_francoisi            ATCGTGGGCATTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCC
 Nomascus_leucogenys                 ATCATTGGCATTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCC
+Homo_sapiens                        ATCGTGGGCATTGCCTTCTCCTGGATCTGGGCTGCTGTGTGGACAGCCCC
 Mus_pahari                          ACTGTGGGAATCGTCTTCTCCTGGGTCTGGGCTGCTATGTGGACGGCCCC
 Arvicanthis_niloticus               ACTGTGGGAATCGTCTTCTCCTGGGTCTGGGCTGCTGTGTGGACAGCCCC
 Melopsittacus_undulatus             GTTGCTGGAATCGTCTTCTCGTGGGTCTGGAGCTGCGCGTGGACAGCGCC
@@ -535,6 +555,7 @@ Talpa_occidentalis                  GCCCATCTTTGGTTGGAGCAGGTACTGGCCCCACGGCCTGAAGA
 Piliocolobus_tephrosceles           GCCCATCTTTGGTTGGAGCAGGTACTGGCCACACGGCCTGAAGACTTCAT
 Trachypithecus_francoisi            GCCCATCTTTGGTTGGAGCAGGTACTGGCCCCACGGCCTGAAGACTTCAT
 Nomascus_leucogenys                 GCCCATCTTTGGTTGGAGCAGGTACTGGCCCCATGGCCTGAAGACTTCAT
+Homo_sapiens                        GCCCATCTTTGGTTGGAGCAGGTACTGGCCCCACGGCCTGAAGACTTCAT
 Mus_pahari                          ACCAATCTTTGGTTGGAGCAGGTACTGGCCTTATGGCCTGAAGACATCCT
 Arvicanthis_niloticus               ACCAATCTTTGGTTGGAGCAGGTACTGGCCTTACGGCCTGAAGACATCCT
 Melopsittacus_undulatus             ACCTATCTTCGGCTGGAGCAGGTACTGGCCCCATGGGCTGAAGACCTCGT
@@ -561,6 +582,7 @@ Talpa_occidentalis                  GCGGCCCCGACGTGTTCAGTGGCAGCTCATACCCCGGGGCACAG
 Piliocolobus_tephrosceles           GCGGCCCAGATGTGTTCAGTGGCAGCTCGTACCCCGGGGTGCAGTCTTAC
 Trachypithecus_francoisi            GCGGCCCAGATGTGTTCAGTGGCAGCTCGTACCCCGGGGTGCAGTCTTAC
 Nomascus_leucogenys                 GCGGCCCAGACGTGTTCAGCGGCAGCTCGTACCCCGGGGTGCAGTCTTAC
+Homo_sapiens                        GCGGCCCAGACGTGTTCAGCGGCAGCTCGTACCCCGGGGTGCAGTCTTAC
 Mus_pahari                          GTGGCCCAGACGTGTTCAGCGGTACCTCATACCCCGGGGTTCAGTCTTAT
 Arvicanthis_niloticus               GTGGCCCAGACGTGTTCAGCGGTACCTCGTACCCCGGGGTTCAGTCTTAT
 Melopsittacus_undulatus             GTGGCCCTGACGTGTTCAGCGGCAGCTCAGACCCAGGGGTACAGTCGTAC
@@ -587,6 +609,7 @@ Talpa_occidentalis                  ATGGTCGTGCTCATGGTGACCTGTTGCATCGCCCCGCTCAGTGT
 Piliocolobus_tephrosceles           ATGATTGTCCTCATGGTCACGTGCTGCATCATTCCACTGGCTATCATCGT
 Trachypithecus_francoisi            ATGATTGTCCTCATGGTCACCTGCTGCATCATTCCACTGGCTATCATCGT
 Nomascus_leucogenys                 ATGATTGTCCTCATGGTCACCTGCTGCATCATCCCACTCGCTATCATCGT
+Homo_sapiens                        ATGATTGTCCTCATGGTCACCTGCTGCATCATCCCACTCGCTATCATCAT
 Mus_pahari                          ATGATGGTCCTCATGGTCACGTGCTGCATCTTCCCACTCAGCATCATCGT
 Arvicanthis_niloticus               ATGATGGTCCTCATGGTCACGTGCTGCATCTTCCCACTCAGCATCATCGT
 Melopsittacus_undulatus             ATGGTGGTGCTGATGGTGACCTGCTGCTTCCTGCCCCTGTCCATCATCAT
@@ -613,6 +636,7 @@ Talpa_occidentalis                  GTTCTGCTACCTCAGGGTGTGGCTGGCCATCCGCGCGGTGGCGA
 Piliocolobus_tephrosceles           GCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
 Trachypithecus_francoisi            GCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
 Nomascus_leucogenys                 GCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
+Homo_sapiens                        GCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
 Mus_pahari                          GCTCTGCTACTTCCAAGTGTGGCTGGCCATCCGAGCAGTGGCAAAGCAAC
 Arvicanthis_niloticus               GCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCAGTGGCAAAGCAAC
 Melopsittacus_undulatus             CCTCTGCTACCTGCAAGTGTGGCTGGCGATCCGCGCTGTGGCCGCGCAGC
@@ -639,6 +663,7 @@ Talpa_occidentalis                  AGAAAGAATCCGAGTCCACCCAGAAGGCCGAGAAGGAGGTGACG
 Piliocolobus_tephrosceles           AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACGCGCATG
 Trachypithecus_francoisi            AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACGCGCATG
 Nomascus_leucogenys                 AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACACGCATG
+Homo_sapiens                        AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACGCGCATG
 Mus_pahari                          AGAAAGAATCTGAATCCACCCAGAAGGCCGAGAAGGAGGTGACATGCATG
 Arvicanthis_niloticus               AAAAAGAATCTGAGTCCACCCAGAAGGCAGAGAAGGAGGTGACACGCATG
 Melopsittacus_undulatus             AGAAGGAGTCGGAGTCGACGCAAAAGGCCGAGCGGGAGGTGTCGCGGATG
@@ -665,6 +690,7 @@ Talpa_occidentalis                  GTGGTGGTGATGGTGCTGGCCTACTGCGTCTGCTGGGGGCCCTA
 Piliocolobus_tephrosceles           GTGATGGTGATGATCTTTGCATACTGCGTCTGCTGGGGACCCTACACCTT
 Trachypithecus_francoisi            GTGATGGTGATGATCTTTGCATACTGCGTCTGCTGGGGACCCTACACCTT
 Nomascus_leucogenys                 GTGGTGGTGATGATCTTTGCGTACTGCGTCTGCTGGGGACCCTATACCTT
+Homo_sapiens                        GTGGTGGTGATGATCTTTGCGTACTGCGTCTGCTGGGGACCCTACACCTT
 Mus_pahari                          GTTGTGGTGATGGTCTTTGCATATTGCCTCTGCTGGGGACCCTATACTTT
 Arvicanthis_niloticus               GTGGTGGTGATGGTCTTCGCATACTGCATCTGCTGGGGGCCCTATACTTT
 Melopsittacus_undulatus             GTGGTTGTGATGATCGTGGCCTATTGCTTCTGCTGGGGCCCATACACCAT
@@ -691,6 +717,7 @@ Talpa_occidentalis                  CTTCGCCTGCTTTGCCACTGCCCACCCTGGCCACTCCTTCCACC
 Piliocolobus_tephrosceles           CTTCGCATGCTTTGCTGCTGCCAACCCTGGCTACGCCTTCCACCCTCTGA
 Trachypithecus_francoisi            CTTCGCATGCTTTGCTGCTGCCAACCCTGGCTACGCCTTCCACCCTCTGA
 Nomascus_leucogenys                 CTTCGCATGCTTTGCTGCTGCCAACCCTGGCTACGCCTTCCACCCTTTGA
+Homo_sapiens                        CTTCGCATGCTTTGCTGCTGCCAACCCTGGTTACGCCTTCCACCCTTTGA
 Mus_pahari                          CTTTGCATGCTTTGCTACTGCCCACCCTGGCTATGCCTTCCACCCTCTTG
 Arvicanthis_niloticus               CTTTGCATGCTTTGCTACTGCCCACCCTGGCTATGCCTTCCACCCTCTTG
 Melopsittacus_undulatus             CTTCGCCTGCTTCGCGGCCGCTAACCCTGGTTACGCCTTCCACCCGCTGG
@@ -717,6 +744,7 @@ Talpa_occidentalis                  TGGCTGCCCTGCCAGCCTACTTTGCCAAAAGTGCCACCATCTAC
 Piliocolobus_tephrosceles           TGGCTGCCCTGCCAGCCTACTTTGCCAAAAGTGCCACTATCTACAACCCC
 Trachypithecus_francoisi            TGGCTGCCCTGCCAGCCTACTTTGCCAAAAGTGCCACTATCTACAACCCC
 Nomascus_leucogenys                 TGGCTGCCCTGCCAGCCTACTTTGCCAAAAGTGCCACTATCTACAATCCT
+Homo_sapiens                        TGGCTGCCCTGCCGGCCTACTTTGCCAAAAGTGCCACTATCTACAACCCC
 Mus_pahari                          TGGCCTCCCTACCAGCCTACTTTGCCAAAAGTGCCACTATCTACAACCCC
 Arvicanthis_niloticus               TGGCCTCCGTACCATCCTACTTTGCCAAAAGTGCCACTATCTACAACCCT
 Melopsittacus_undulatus             CCGCTGCCCTGCCCGCTTACTTCGCCAAGAGCGCCACCATCTACAACCCC
@@ -743,6 +771,7 @@ Talpa_occidentalis                  ATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCATCTT
 Piliocolobus_tephrosceles           ATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCATCTTGCAGCT
 Trachypithecus_francoisi            ATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCATCTTGCAGCT
 Nomascus_leucogenys                 GTTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCATCTTGCAGCT
+Homo_sapiens                        GTTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCATCTTGCAGCT
 Mus_pahari                          ATTATCTATGTCTTTATGAACCGACANTTTCGAAACTGCATCTTACAGCT
 Arvicanthis_niloticus               ATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCATCTTACAGCT
 Melopsittacus_undulatus             ATCATCTATGTGTTCATGAACAGACAGTTCCGGAACTGCATCCTGCAGCT
@@ -769,6 +798,7 @@ Talpa_occidentalis                  CTTTGGAAAGAAGGTGGATGACAGCTCTGAACTCTCCAGTGCCT
 Piliocolobus_tephrosceles           TTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
 Trachypithecus_francoisi            TTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
 Nomascus_leucogenys                 TTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
+Homo_sapiens                        TTTCGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
 Mus_pahari                          CTTTGGAAAGAAGGTTGATGATAGCTCTGAACTTTCCACCACCTCCAAGA
 Arvicanthis_niloticus               CTTTGGAAAGAAGGTTGATGATAGCTCTGAACTTTCCAGCACCTCCAAGA
 Melopsittacus_undulatus             GTTTGGCAGGAAGGTGGATGATGGATCTGAGGTGTCCACGTCGCGCACGG
@@ -795,6 +825,7 @@ Talpa_occidentalis                  CGGAGGCCTGC------TCTGTCTCTTCGGTGTCCCCTGCCTGA
 Piliocolobus_tephrosceles           CGGAGGTCTCA------TCTGTGTCCTCGGTGTCGCCTGCATGAG-----
 Trachypithecus_francoisi            CGGAGGTCTCA------TCTGTGTCCTCGGTGTCGCCTGCATGAG-----
 Nomascus_leucogenys                 CGGAGGTCTCA------TCTGTGTCCTCCGTATCGCCTGCATGAG-----
+Homo_sapiens                        CGGAGGTCTCA------TCTGTGTCCTCGGTATCGCCTGCATGAG-----
 Mus_pahari                          CAGAAGTCTCA------TCTGTCTCTTCAGTGTCACCTGCATAAA-----
 Arvicanthis_niloticus               CAGAAGTCTCA------TCTGTCTCTTCAGTGTCACCTGCATAAA-----
 Melopsittacus_undulatus             AGGTGTCCTCAG---TGTCCAACTCCTCTGTGGCGCCCGCATAGG-----
@@ -821,6 +852,7 @@ Talpa_occidentalis                  CACAGCCCGAG---------------------------------
 Piliocolobus_tephrosceles           ---------------------ATCTGCCTCCTAC----------------
 Trachypithecus_francoisi            ---------------------ATCTGCCTCCTAC----------------
 Nomascus_leucogenys                 ---------------------GTCTGCCTCCTAC----------------
+Homo_sapiens                        ---------------------GTCTGCCTCCTAC----------------
 Mus_pahari                          ---------------------GTCTGCCTCCAAC----------------
 Arvicanthis_niloticus               ---------------------GTCTGCCTCCAAC----------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -847,6 +879,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           ------CCATCCCGCCCACCGGGGCTTTGGCC-------ACCTCTCCCTT
 Trachypithecus_francoisi            ------CCATCCCGCCCACCGGGGCTTTGGCC-------ACCTCTCCCTT
 Nomascus_leucogenys                 ------CCATCCCGCCCACCGGGGCTTTGGCC-------ACCTCTCCTTT
+Homo_sapiens                        ------CCATCCCGCCCACCGGGGCTTTGGCC-------ACCTCTCCTTT
 Mus_pahari                          ------CTGCCCCATCCATCAAAGCTTTGGCC-------ATGTTTTACCT
 Arvicanthis_niloticus               ------CTGTCTCATCTGCCAAAGCTTTGGCC-------ACCTCTTACCT
 Melopsittacus_undulatus             --------------------------------------------------
@@ -873,6 +906,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           CCCCCTCC--TTCTCCATCCCTGTGAAATAAATGTAATTTATCTTTGCCA
 Trachypithecus_francoisi            CCCC-TCC--TTCTCCATCCCTGTGAAATAAATGTAATTTATCTTTGCCA
 Nomascus_leucogenys                 CCCCCTCC--TTCTCCATCCCTGTGAAATAAATGTAATTTATCTTTGCCA
+Homo_sapiens                        CCCCCTCC--TTCTCCATCCCTGTAAAATAAATGTAATTTATCTTTGCCA
 Mus_pahari                          CCCTTCTC----ATCTATCCTTGTGAAATAAATATAATTTCTCCTTGCTC
 Arvicanthis_niloticus               CCCTTCTC----ATCTATTCTTGTGAAATAAACATAATTTCTCCTTGCTC
 Melopsittacus_undulatus             --------------------------------------------------
@@ -899,6 +933,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           AAACCAA-------------------------------------------
 Trachypithecus_francoisi            AAACCAACAAAGTCACAGAGGCTTTCACTGCAGTTTGGGACCACCTGAGC
 Nomascus_leucogenys                 AAACCAA-------------------------------------------
+Homo_sapiens                        AAACCAA-------------------------------------------
 Mus_pahari                          AAA-----------------------------------------------
 Arvicanthis_niloticus               AAACCAA-------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -925,6 +960,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            CTCTGCATGTGCAGGCACTGGGTCTCGAGAGGGTGCAAGGGGGATAAAGA
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -951,6 +987,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GGAGAGAGTGCTTCATAGACTTTAATCTTTCCCGAGCCTCATGTCTATCG
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -977,6 +1014,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            ATGGCGTGAAAGGACCCTGACAAAACGGAAGTGTGAGGCAGGTGGGCGTC
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1003,6 +1041,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            TATATCCATTTCGCCAGGCTGGTGGTTACATAATCGGCAAGCAAGAGCTG
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1029,6 +1068,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            TGGAGGGGCTGTCTGGGGAGGGCTTGCTGGATGCCCTCGACACCCAGGAG
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1055,6 +1095,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GAGGGAGGGAGCTAGCAAGCTAAGGCAGGTGGCCCTCCTGGCCCCTTAAG
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1081,6 +1122,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GTCCATGTGCTGGAGGCCCAGAGTTCTTGGAGTACAGTCTACACCTGGAG
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1107,6 +1149,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GAGACCCATTCCGGCCAGTCTGTGGCAGGGATGGCGTGCCGCCTCTGCCA
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1133,6 +1176,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GGCCAGTACCCCAAGCCCAATCAGCATCAGGGTGGTGCAAGCGCACAGGC
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1159,6 +1203,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GTGAGGTGATCAGTGATGAGGGGCAGGCACACAAGGTGGAGACAACGACC
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1185,6 +1230,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            AAGAGGACGGTTGCCAGTGAGAGGAGCAGACTCACGAACTTGAACAACAT
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1211,6 +1257,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            CTTCAGGGGACGGCTTTGGAGGTGCTCTGCTGCCTCCAGTTGGGTGACTT
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1237,6 +1284,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            GCTGTAGCATCTCCAGCTTGGATATCCGGCTCTTGAAGGTCTCCATGATC
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1263,6 +1311,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            TCCTGCAGGAGACGAAAATGCACGCACCAGAAGTCA--------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1289,6 +1338,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1315,6 +1365,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1341,6 +1392,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1367,6 +1419,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1393,6 +1446,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1419,6 +1473,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1445,6 +1500,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1471,6 +1527,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1497,6 +1554,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1523,6 +1581,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1549,6 +1608,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1575,6 +1635,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1601,6 +1662,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1627,6 +1689,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1653,6 +1716,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1679,6 +1743,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1705,6 +1770,7 @@ Talpa_occidentalis                  --------------------------------------------
 Piliocolobus_tephrosceles           --------------------------------------------------
 Trachypithecus_francoisi            --------------------------------------------------
 Nomascus_leucogenys                 --------------------------------------------------
+Homo_sapiens                        --------------------------------------------------
 Mus_pahari                          --------------------------------------------------
 Arvicanthis_niloticus               --------------------------------------------------
 Melopsittacus_undulatus             --------------------------------------------------
@@ -1731,6 +1797,7 @@ Talpa_occidentalis                  ------------------------------
 Piliocolobus_tephrosceles           ------------------------------
 Trachypithecus_francoisi            ------------------------------
 Nomascus_leucogenys                 ------------------------------
+Homo_sapiens                        ------------------------------
 Mus_pahari                          ------------------------------
 Arvicanthis_niloticus               ------------------------------
 Melopsittacus_undulatus             ------------------------------

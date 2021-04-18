@@ -15,6 +15,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -42,6 +43,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -69,6 +71,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -96,6 +99,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -123,6 +127,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -150,6 +155,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      -----------------------------------------------------------A
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -177,6 +183,7 @@ XM_037512842.1      ------------------------------------CCAGGGCTGGCGGCCATCCAGGAC
 XM_023198523.1      GGCCAGTATAAAGCGCCGTGACCCTCAGGTGATGCGCCAGGGCTGGCTGCCGTCGGGGAC
 XM_033178506.1      GGCCAGTATAAAGCGCCGTGACCCTCAGGTGATGCGCCAGGGCTGGCTGCCGTCAGGGAC
 XM_030807418.1      ----------------------CCTCAGGTGATGCGCCAGGGCTGGCTGCCGTCGGGGAC
+NM_020061.6         -----------------------------------GCCAGGGCCGGCTGCCGTCGGGGAC
 XM_021188393.2      -----------------------------------------------CAAGTCT---GAC
 XM_034486343.1      -----------------------------------------------GGAATCTATGGTC
 XM_034071738.1      ------------------------------------------------------------
@@ -204,6 +211,7 @@ XM_037512842.1      AGGGCTTTTCAGAGCCATGGCCCAACA---GTGGGTTCCCCAAAGGCTCACGGGCGGACA
 XM_023198523.1      AGGGCTTTCCATAGCCATGGCCCAGCA---GTGGAGCCTCCAAAGGCTCGCAGGCCGCCA
 XM_033178506.1      AGGGCTCTCCATAGCCATGGCCCAGCA---GTGGAGCCTCCAAAGGCTCGCAGGCCGCCA
 XM_030807418.1      AGGGCTTTCCATAGCCATGGCCCAGCA---GTGGAGCCTCCAAAGGCTCGCAGGCCGCCA
+NM_020061.6         AGGGCTTTCCATAGCCATGGCCCAGCA---GTGGAGCCTCCAAAGGCTCGCAGGCCGCCA
 XM_021188393.2      AGGTTCCAGAGACA--GTTTTCTACAA---CCATGGCC--CAAAGGCTTACAGGTGAACA
 XM_034486343.1      AGGTTCCAGAGACACTGTTTTCCACAG---CCATGGCC--CAAAGGCTTACAGGTGAACA
 XM_034071738.1      ----------------ATGG--CGGCC---GCGTGGCC----GGCGGTGATGGCAGCGCG
@@ -231,6 +239,7 @@ XM_037512842.1      GCCACACGCCGGCCTGGAGGACAGCACCCTGGGGAG-CATCTTTACCTACACCAACAGCA
 XM_023198523.1      TCCGCAGGACAGCTATGAGGACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCA
 XM_033178506.1      TCCGCAGGACAGCTATGAGGACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCA
 XM_030807418.1      TCCGCAGGACAGCTATGAGGACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCA
+NM_020061.6         TCCGCAGGACAGCTATGAGGACAGCACCCAGTCCAG-CATCTTCACCTACACCAACAGCA
 XM_021188393.2      GATACTGGACCACTATGAGGATAGCACCCATGCAAG-CATCTTCACCTATACCAACAGCA
 XM_034486343.1      GGCATCGGACCACTATGAGGACAGCACCCATTCAAG-CATCTTCACCTATTCCAACAGCA
 XM_034071738.1      ACGGCGGCATGAGGATGAGGAGACCACGCGGGACAG-TGTCTTCACCTACACCAACAGCA
@@ -258,6 +267,7 @@ XM_037512842.1      ATGCAACGAGAG---GCCCCTTTGAAGGCCCCAATTACCACATCGCTCCCAGGTGGGTGT
 XM_023198523.1      ACTCCACCAGAG---GACCCTTTGAAGGCCCCAACTACCACATCGCTCCCAGATGGGTGT
 XM_033178506.1      ACTCCACCAGAG---GCCCCTTTGAAGGCCCCAACTACCACATCGCTCCCAGATGGGTGT
 XM_030807418.1      ACTCCACCAGAG---GCCCCTTCGAAGGCCCGAATTACCACATCGCTCCCAGATGGGTGT
+NM_020061.6         ACTCCACCAGAG---GCCCCTTCGAAGGCCCGAATTACCACATCGCTCCCAGATGGGTGT
 XM_021188393.2      ACAGCACCAGAG---GTCCCTTTGAAGGCCCCAATTATCATATTGCTCCCAGGTGGGTGT
 XM_034486343.1      ACAGCACCAGAG---GTCCCTTTGAAGGTCCCAATTATCACATTGCTCCCAGGTGGGTGT
 XM_034071738.1      ACAACACCCGCG---GCCCCTTCGACGGCCCCAACTACCACATAGCCCCTCGCTGGGTGT
@@ -285,6 +295,7 @@ XM_037512842.1      ACCACCTCACCAGCGCCTGGATGGTGTTCGTGGTCATCTCCTCGGTCTTCACCAATGGGC
 XM_023198523.1      ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTTCACAAATGGGC
 XM_033178506.1      ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTTCACAAATGGGC
 XM_030807418.1      ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTTCACAAATGGGC
+NM_020061.6         ACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACTGCATCCGTCTTCACAAATGGGC
 XM_021188393.2      ACCACCTCACCAGCACCTGGATGATTCTTGTGGTCATTGCATCTGTCTTCACTAATGGAC
 XM_034486343.1      ACCACCTCGCCACCGCCTGGATGATTCTTGTTGTCGTTGCATCTGTCTTCACTAATGGAC
 XM_034071738.1      ACAACCTGACCTCCCTCTGGATGATCTTCGTGGTGGCGGCTTCAGTGTTCACCAATGGGC
@@ -312,6 +323,7 @@ XM_037512842.1      TGGTGCTGGCAGCCACTGTGAGGTTCAGGAGGCTGCGCCATCCTCTGAACTGGATCCTGG
 XM_023198523.1      TTGTGCTGGCTGCCACCATGAAGTTCAAGAAGTTGCGCCACCCGCTGAACTGGATCCTGG
 XM_033178506.1      TTGTGCTGGCTGCCACCATGAAGTTCAAGAAGTTGCGCCACCCGCTGAACTGGATCCTGG
 XM_030807418.1      TTGTGCTGGCGGCCACCATGAAGTTCAAGAAGCTGCGCCACCCGCTGAACTGGATCCTGG
+NM_020061.6         TTGTGCTGGCGGCCACCATGAAGTTCAAGAAGCTGCGCCACCCGCTGAACTGGATCCTGG
 XM_021188393.2      TTGTGCTGGCAGCCACCATGAGATTCAAGAAGCTGCGCCATCCTCTGAACTGGATTCTGG
 XM_034486343.1      TTGTGCTGGCAGCCACCATGAGATTTAAGAAGCTTCGCCATCCTCTGAACTGGATTCTGG
 XM_034071738.1      TGGTGCTCGCGGCCACCTGGCGCTTCAAGAAGCTTCGGCATCCGCTCAACTGGATCCTGG
@@ -339,6 +351,7 @@ XM_037512842.1      TGAACTTGGCGGTCGCCGACCTGGCAGAGACCATCGTCGCCAGCACCATCAGCGTGGTGA
 XM_023198523.1      TGAACCTGGCGGTTGCTGACCTAGCAGAGACCGTCATCGCCAGCACTATCAGTGTTGTGA
 XM_033178506.1      TGAACCTGGCGGTTGCTGACCTAGCAGAGACCGTCATCGCCAGCACTATCAGTGTTGTGA
 XM_030807418.1      TGAACCTGGCGGTCGCTGACCTAGCAGAGACCGTCATCGCCAGCACTATTAGCGTTGTCA
+NM_020061.6         TGAACCTGGCGGTCGCTGACCTAGCAGAGACCGTCATCGCCAGCACTATCAGCATTGTGA
 XM_021188393.2      TGAACTTGGCAGTTGCTGACCTAGCAGAGACCATTATTGCCAGCACTATCAGTGTTGTGA
 XM_034486343.1      TGAACTTGGCAGTTGCTGACCTAGCAGAGACTATTATTGCCAGCACTATCAGTGTTGTGA
 XM_034071738.1      TGAACCTGGCGCTGGCTGACCTGGGGGAGACCCTGATCGCCAGCACCATCAGTGTCGTCA
@@ -366,6 +379,7 @@ XM_037512842.1      ACCAGATCTGTGGCTACTTCGTGCTGGGCCACCCTCTGTGCGTGCTGGAGGGCTACACAG
 XM_023198523.1      ACCAGGTCTCTGGCTACTTCGTGCTGGGCCATCCTATGTGTGTCCTGGAAGGCTTCACCG
 XM_033178506.1      ACCAGGTCTCTGGCTACTTCGTGCTGGGCCATCCTATGTGTGTCCTGGAAGGCTTCACCG
 XM_030807418.1      ACCAGGTCTCTGGCTACTTCGTGCTGGGCCACCCTATGTGTGTCCTGGAGGGCTACACCG
+NM_020061.6         ACCAGGTCTCTGGCTACTTCGTGCTGGGCCACCCTATGTGTGTCCTGGAGGGCTACACCG
 XM_021188393.2      ACCAAATCTATGGCTACTTCGTTCTGGGACACCCTCTGTGTGTCATAGAAGGTTACATTG
 XM_034486343.1      ACCAAATCTATGGCTACTTCGTGCTGGGCCACCCTCTGTGTGTCATAGAAGGCTACATTG
 XM_034071738.1      ACCAGATCTTCGGCTACTTCGTGCTGGGGCATCCGCTCTGTGTCATTGAGGGATACACTG
@@ -393,6 +407,7 @@ XM_037512842.1      TCTCCCTGTGTGGGGTCACAGGCCTCTGGTCCCTTGCCATCATCTCCTGGGAGAGGTGGC
 XM_023198523.1      TCTCCCTGTGTGGGATCACAGGTCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGGTGGC
 XM_033178506.1      TCTCCCTGTGTGGAATCACAGGTCTCTGGTCCCTGGCCATCATCTCCTGGGAGAGGTGGC
 XM_030807418.1      TCTCCCTGTGTGGGATCACAGGTCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGGTGGC
+NM_020061.6         TCTCCCTGTGTGGGATCACAGGTCTCTGGTCTCTGGCCATCATTTCCTGGGAGAGATGGA
 XM_021188393.2      TCTCATTGTGTGGAATCACAGGCCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGATGGC
 XM_034486343.1      TCTCATTGTGTGGGATCACAGGCCTCTGGTCCCTGGCCATAATTTCCTGGGAGAGATGGC
 XM_034071738.1      TCAGCGCCTGCGGCATCACCGCGCTCTGGTCCTTGGCCATCATCTCCTGGGAACGTTGGT
@@ -420,6 +435,7 @@ XM_037512842.1      TGGTGGTATGCAAGCCCTTTGGCAACGCGAGGTGTGACGCCAAGCTGGCCACAGCGGGCA
 XM_023198523.1      TGGTGGTCTGCAAGCCCTTTGGCAACGTGAGATTTGATGCCAAGCTCGCCATCGTGGGCA
 XM_033178506.1      TGGTGGTCTGCAAGCCCTTTGGCAACGTGAGATTTGACGCCAAGCTCGCCATCGTGGGCA
 XM_030807418.1      TGGTGGTCTGCAAGCCCTTTGGCAACGTGAGATTTGATGCCAAGCTGGCCATCATTGGCA
+NM_020061.6         TGGTGGTCTGCAAGCCCTTTGGCAATGTGAGATTTGATGCCAAGCTGGCCATCGTGGGCA
 XM_021188393.2      TGGTGGTCTGCAAGCCCTTTGGTAATGTGAGATTTGATGCTAAACTGGCCACTGTGGGAA
 XM_034486343.1      TGGTGGTCTGCAAGCCCTTTGGCAATGTGAGATTTGATGCTAAGCTGGCCACTGTGGGAA
 XM_034071738.1      TCGTGGTCTGCAAACCCTTCGGGAACATCAAGTTCGATGGGAAATTGGCAGTTGCTGGAA
@@ -447,6 +463,7 @@ XM_037512842.1      TCGCCTTCTCCTGGGTCTGGTCTGCTGTGTGGACTGCCCCGCCCATCTTTGGTTGGAGCA
 XM_023198523.1      TTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCCGCCCATCTTTGGTTGGAGCA
 XM_033178506.1      TTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCCGCCCATCTTTGGTTGGAGCA
 XM_030807418.1      TTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCCGCCCATCTTTGGTTGGAGCA
+NM_020061.6         TTGCCTTCTCCTGGATCTGGGCTGCTGTGTGGACAGCCCCGCCCATCTTTGGTTGGAGCA
 XM_021188393.2      TCGTCTTCTCCTGGGTCTGGGCTGCTATGTGGACGGCCCCACCAATCTTTGGTTGGAGCA
 XM_034486343.1      TCGTCTTCTCCTGGGTCTGGGCTGCTGTGTGGACAGCCCCACCAATCTTTGGTTGGAGCA
 XM_034071738.1      TCGTCTTCTCGTGGGTCTGGAGCTGCGCGTGGACAGCGCCACCTATCTTCGGCTGGAGCA
@@ -474,6 +491,7 @@ XM_037512842.1      GGTACTGGCCCCACGGCCTGAAGACCTCGTGCGGCCCCGACGTGTTCAGTGGCAGCTCAT
 XM_023198523.1      GGTACTGGCCACACGGCCTGAAGACTTCATGCGGCCCAGATGTGTTCAGTGGCAGCTCGT
 XM_033178506.1      GGTACTGGCCCCACGGCCTGAAGACTTCATGCGGCCCAGATGTGTTCAGTGGCAGCTCGT
 XM_030807418.1      GGTACTGGCCCCATGGCCTGAAGACTTCATGCGGCCCAGACGTGTTCAGCGGCAGCTCGT
+NM_020061.6         GGTACTGGCCCCACGGCCTGAAGACTTCATGCGGCCCAGACGTGTTCAGCGGCAGCTCGT
 XM_021188393.2      GGTACTGGCCTTATGGCCTGAAGACATCCTGTGGCCCAGACGTGTTCAGCGGTACCTCAT
 XM_034486343.1      GGTACTGGCCTTACGGCCTGAAGACATCCTGTGGCCCAGACGTGTTCAGCGGTACCTCGT
 XM_034071738.1      GGTACTGGCCCCATGGGCTGAAGACCTCGTGTGGCCCTGACGTGTTCAGCGGCAGCTCAG
@@ -501,6 +519,7 @@ XM_037512842.1      ACCCCGGGGCACAGTCGTACATGGTCGTGCTCATGGTGACCTGTTGCATCGCCCCGCTCA
 XM_023198523.1      ACCCCGGGGTGCAGTCTTACATGATTGTCCTCATGGTCACGTGCTGCATCATTCCACTGG
 XM_033178506.1      ACCCCGGGGTGCAGTCTTACATGATTGTCCTCATGGTCACCTGCTGCATCATTCCACTGG
 XM_030807418.1      ACCCCGGGGTGCAGTCTTACATGATTGTCCTCATGGTCACCTGCTGCATCATCCCACTCG
+NM_020061.6         ACCCCGGGGTGCAGTCTTACATGATTGTCCTCATGGTCACCTGCTGCATCATCCCACTCG
 XM_021188393.2      ACCCCGGGGTTCAGTCTTATATGATGGTCCTCATGGTCACGTGCTGCATCTTCCCACTCA
 XM_034486343.1      ACCCCGGGGTTCAGTCTTATATGATGGTCCTCATGGTCACGTGCTGCATCTTCCCACTCA
 XM_034071738.1      ACCCAGGGGTACAGTCGTACATGGTGGTGCTGATGGTGACCTGCTGCTTCCTGCCCCTGT
@@ -528,6 +547,7 @@ XM_037512842.1      GTGTCATCGTGTTCTGCTACCTCAGGGTGTGGCTGGCCATCCGCGCGGTGGCGAAGCAGC
 XM_023198523.1      CTATCATCGTGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
 XM_033178506.1      CTATCATCGTGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
 XM_030807418.1      CTATCATCGTGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
+NM_020061.6         CTATCATCATGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCGGTGGCAAAGCAGC
 XM_021188393.2      GCATCATCGTGCTCTGCTACTTCCAAGTGTGGCTGGCCATCCGAGCAGTGGCAAAGCAAC
 XM_034486343.1      GCATCATCGTGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAGCAGTGGCAAAGCAAC
 XM_034071738.1      CCATCATCATCCTCTGCTACCTGCAAGTGTGGCTGGCGATCCGCGCTGTGGCCGCGCAGC
@@ -555,6 +575,7 @@ XM_037512842.1      AGAAAGAATCCGAGTCCACCCAGAAGGCCGAGAAGGAGGTGACGCGCATGGTGGTGGTGA
 XM_023198523.1      AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACGCGCATGGTGATGGTGA
 XM_033178506.1      AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACGCGCATGGTGATGGTGA
 XM_030807418.1      AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACACGCATGGTGGTGGTGA
+NM_020061.6         AGAAAGAGTCTGAATCCACCCAGAAGGCAGAGAAGGAAGTGACGCGCATGGTGGTGGTGA
 XM_021188393.2      AGAAAGAATCTGAATCCACCCAGAAGGCCGAGAAGGAGGTGACATGCATGGTTGTGGTGA
 XM_034486343.1      AAAAAGAATCTGAGTCCACCCAGAAGGCAGAGAAGGAGGTGACACGCATGGTGGTGGTGA
 XM_034071738.1      AGAAGGAGTCGGAGTCGACGCAAAAGGCCGAGCGGGAGGTGTCGCGGATGGTGGTTGTGA
@@ -582,6 +603,7 @@ XM_037512842.1      TGGTGCTGGCCTACTGCGTCTGCTGGGGGCCCTACACCTTCTTCGCCTGCTTTGCCACTG
 XM_023198523.1      TGATCTTTGCATACTGCGTCTGCTGGGGACCCTACACCTTCTTCGCATGCTTTGCTGCTG
 XM_033178506.1      TGATCTTTGCATACTGCGTCTGCTGGGGACCCTACACCTTCTTCGCATGCTTTGCTGCTG
 XM_030807418.1      TGATCTTTGCGTACTGCGTCTGCTGGGGACCCTATACCTTCTTCGCATGCTTTGCTGCTG
+NM_020061.6         TGATCTTTGCGTACTGCGTCTGCTGGGGACCCTACACCTTCTTCGCATGCTTTGCTGCTG
 XM_021188393.2      TGGTCTTTGCATATTGCCTCTGCTGGGGACCCTATACTTTCTTTGCATGCTTTGCTACTG
 XM_034486343.1      TGGTCTTCGCATACTGCATCTGCTGGGGGCCCTATACTTTCTTTGCATGCTTTGCTACTG
 XM_034071738.1      TGATCGTGGCCTATTGCTTCTGCTGGGGCCCATACACCATCTTCGCCTGCTTCGCGGCCG
@@ -609,6 +631,7 @@ XM_037512842.1      CCCACCCTGGCCACTCCTTCCACCCTTTGGTGGCTGCCCTGCCAGCCTACTTTGCCAAAA
 XM_023198523.1      CCAACCCTGGCTACGCCTTCCACCCTCTGATGGCTGCCCTGCCAGCCTACTTTGCCAAAA
 XM_033178506.1      CCAACCCTGGCTACGCCTTCCACCCTCTGATGGCTGCCCTGCCAGCCTACTTTGCCAAAA
 XM_030807418.1      CCAACCCTGGCTACGCCTTCCACCCTTTGATGGCTGCCCTGCCAGCCTACTTTGCCAAAA
+NM_020061.6         CCAACCCTGGTTACGCCTTCCACCCTTTGATGGCTGCCCTGCCGGCCTACTTTGCCAAAA
 XM_021188393.2      CCCACCCTGGCTATGCCTTCCACCCTCTTGTGGCCTCCCTACCAGCCTACTTTGCCAAAA
 XM_034486343.1      CCCACCCTGGCTATGCCTTCCACCCTCTTGTGGCCTCCGTACCATCCTACTTTGCCAAAA
 XM_034071738.1      CTAACCCTGGTTACGCCTTCCACCCGCTGGCCGCTGCCCTGCCCGCTTACTTCGCCAAGA
@@ -636,6 +659,7 @@ XM_037512842.1      GTGCCACCATCTACAACCCCATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCA
 XM_023198523.1      GTGCCACTATCTACAACCCCATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCA
 XM_033178506.1      GTGCCACTATCTACAACCCCATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCA
 XM_030807418.1      GTGCCACTATCTACAATCCTGTTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCA
+NM_020061.6         GTGCCACTATCTACAACCCCGTTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCA
 XM_021188393.2      GTGCCACTATCTACAACCCCATTATCTATGTCTTTATGAACCGACANTTTCGAAACTGCA
 XM_034486343.1      GTGCCACTATCTACAACCCTATTATCTATGTCTTTATGAACCGGCAGTTTCGAAACTGCA
 XM_034071738.1      GCGCCACCATCTACAACCCCATCATCTATGTGTTCATGAACAGACAGTTCCGGAACTGCA
@@ -663,6 +687,7 @@ XM_037512842.1      TCTTGCAGCTCTTTGGAAAGAAGGTGGATGACAGCTCTGAACTCTCCAGTGCCTCCAGAA
 XM_023198523.1      TCTTGCAGCTTTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
 XM_033178506.1      TCTTGCAGCTTTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
 XM_030807418.1      TCTTGCAGCTTTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
+NM_020061.6         TCTTGCAGCTTTTCGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCCTCCAAAA
 XM_021188393.2      TCTTACAGCTCTTTGGAAAGAAGGTTGATGATAGCTCTGAACTTTCCACCACCTCCAAGA
 XM_034486343.1      TCTTACAGCTCTTTGGAAAGAAGGTTGATGATAGCTCTGAACTTTCCAGCACCTCCAAGA
 XM_034071738.1      TCCTGCAGCTGTTTGGCAGGAAGGTGGATGATGGATCTGAGGTGTCCACGTCGCGCACGG
@@ -690,6 +715,7 @@ XM_037512842.1      CGGAGGCCTGC------TCTGTCTCTTCGGTGTCCCCTGCCTGAGGCGCTCACAGCCCGA
 XM_023198523.1      CGGAGGTCTCA------TCTGTGTCCTCGGTGTCGCCTGCATGAG---------------
 XM_033178506.1      CGGAGGTCTCA------TCTGTGTCCTCGGTGTCGCCTGCATGAG---------------
 XM_030807418.1      CGGAGGTCTCA------TCTGTGTCCTCCGTATCGCCTGCATGAG---------------
+NM_020061.6         CGGAGGTCTCA------TCTGTGTCCTCGGTATCGCCTGCATGAG---------------
 XM_021188393.2      CAGAAGTCTCA------TCTGTCTCTTCAGTGTCACCTGCATAAA---------------
 XM_034486343.1      CAGAAGTCTCA------TCTGTCTCTTCAGTGTCACCTGCATAAA---------------
 XM_034071738.1      AGGTGTCCTCAG---TGTCCAACTCCTCTGTGGCGCCCGCATAGG---------------
@@ -717,6 +743,7 @@ XM_037512842.1      G-----------------------------------------------------------
 XM_023198523.1      -----------ATCTGCCTCCTAC----------------------CCATCCCGCCCACC
 XM_033178506.1      -----------ATCTGCCTCCTAC----------------------CCATCCCGCCCACC
 XM_030807418.1      -----------GTCTGCCTCCTAC----------------------CCATCCCGCCCACC
+NM_020061.6         -----------GTCTGCCTCCTAC----------------------CCATCCCGCCCACC
 XM_021188393.2      -----------GTCTGCCTCCAAC----------------------CTGCCCCATCCATC
 XM_034486343.1      -----------GTCTGCCTCCAAC----------------------CTGTCTCATCTGCC
 XM_034071738.1      ------------------------------------------------------------
@@ -744,6 +771,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      GGGGCTTTGGCC-------ACCTCTCCCTTCCCCCTCC--TTCTCCATCCCTGTGAAATA
 XM_033178506.1      GGGGCTTTGGCC-------ACCTCTCCCTTCCCC-TCC--TTCTCCATCCCTGTGAAATA
 XM_030807418.1      GGGGCTTTGGCC-------ACCTCTCCTTTCCCCCTCC--TTCTCCATCCCTGTGAAATA
+NM_020061.6         GGGGCTTTGGCC-------ACCTCTCCTTTCCCCCTCC--TTCTCCATCCCTGTAAAATA
 XM_021188393.2      AAAGCTTTGGCC-------ATGTTTTACCTCCCTTCTC----ATCTATCCTTGTGAAATA
 XM_034486343.1      AAAGCTTTGGCC-------ACCTCTTACCTCCCTTCTC----ATCTATTCTTGTGAAATA
 XM_034071738.1      ------------------------------------------------------------
@@ -771,6 +799,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      AATGTAATTTATCTTTGCCAAAACCAA---------------------------------
 XM_033178506.1      AATGTAATTTATCTTTGCCAAAACCAACAAAGTCACAGAGGCTTTCACTGCAGTTTGGGA
 XM_030807418.1      AATGTAATTTATCTTTGCCAAAACCAA---------------------------------
+NM_020061.6         AATGTAATTTATCTTTGCCAAAACCAA---------------------------------
 XM_021188393.2      AATATAATTTCTCCTTGCTCAAA-------------------------------------
 XM_034486343.1      AACATAATTTCTCCTTGCTCAAACCAA---------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -798,6 +827,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      CCACCTGAGCCTCTGCATGTGCAGGCACTGGGTCTCGAGAGGGTGCAAGGGGGATAAAGA
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -825,6 +855,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      GGAGAGAGTGCTTCATAGACTTTAATCTTTCCCGAGCCTCATGTCTATCGATGGCGTGAA
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -852,6 +883,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      AGGACCCTGACAAAACGGAAGTGTGAGGCAGGTGGGCGTCTATATCCATTTCGCCAGGCT
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -879,6 +911,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      GGTGGTTACATAATCGGCAAGCAAGAGCTGTGGAGGGGCTGTCTGGGGAGGGCTTGCTGG
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -906,6 +939,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ATGCCCTCGACACCCAGGAGGAGGGAGGGAGCTAGCAAGCTAAGGCAGGTGGCCCTCCTG
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -933,6 +967,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      GCCCCTTAAGGTCCATGTGCTGGAGGCCCAGAGTTCTTGGAGTACAGTCTACACCTGGAG
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -960,6 +995,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      GAGACCCATTCCGGCCAGTCTGTGGCAGGGATGGCGTGCCGCCTCTGCCAGGCCAGTACC
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -987,6 +1023,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      CCAAGCCCAATCAGCATCAGGGTGGTGCAAGCGCACAGGCGTGAGGTGATCAGTGATGAG
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1014,6 +1051,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      GGGCAGGCACACAAGGTGGAGACAACGACCAAGAGGACGGTTGCCAGTGAGAGGAGCAGA
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1041,6 +1079,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      CTCACGAACTTGAACAACATCTTCAGGGGACGGCTTTGGAGGTGCTCTGCTGCCTCCAGT
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1068,6 +1107,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      TGGGTGACTTGCTGTAGCATCTCCAGCTTGGATATCCGGCTCTTGAAGGTCTCCATGATC
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1095,6 +1135,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      TCCTGCAGGAGACGAAAATGCACGCACCAGAAGTCA------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1122,6 +1163,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1149,6 +1191,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1176,6 +1219,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1203,6 +1247,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1230,6 +1275,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1257,6 +1303,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1284,6 +1331,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1311,6 +1359,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1338,6 +1387,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1365,6 +1415,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1392,6 +1443,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1419,6 +1471,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1446,6 +1499,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1473,6 +1527,7 @@ XM_037512842.1      ------------------------------------------------------------
 XM_023198523.1      ------------------------------------------------------------
 XM_033178506.1      ------------------------------------------------------------
 XM_030807418.1      ------------------------------------------------------------
+NM_020061.6         ------------------------------------------------------------
 XM_021188393.2      ------------------------------------------------------------
 XM_034486343.1      ------------------------------------------------------------
 XM_034071738.1      ------------------------------------------------------------
@@ -1500,6 +1555,7 @@ XM_037512842.1      ------------------------------
 XM_023198523.1      ------------------------------
 XM_033178506.1      ------------------------------
 XM_030807418.1      ------------------------------
+NM_020061.6         ------------------------------
 XM_021188393.2      ------------------------------
 XM_034486343.1      ------------------------------
 XM_034071738.1      ------------------------------
